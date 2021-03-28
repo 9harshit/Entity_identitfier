@@ -13,5 +13,5 @@ Example : `python get_answer.py restraunt in hong kong at 5:00`
 
 ![Screenshot](https://github.com/9harshit/Entity_identitfier/blob/main/image.jpg?raw=true)
 
-Download model from : https://drive.google.com/file/d/1dFzegE59pYWhpGZHwkR7RSK0q6cD_ogz/view?usp=sharing
+Download model's zip file from : https://drive.google.com/file/d/1eizpQZFpM7i_Oxnp9MPBoO4PL0Hy8jEQ/view?usp=sharing
 
