@@ -11,7 +11,7 @@ To run the pre trained model run the file get_answer.py with Command Line Argume
 
 Example : `python get_answer.py restraunt in hong kong at 5:00`
 
-! [alt text] (https://github.com/9harshit/Entity_identitfier/blob/main/image.jpg?raw=true)
+![Screenshot](https://github.com/9harshit/Entity_identitfier/blob/main/image.jpg?raw=true)
 
 Download model from : https://drive.google.com/file/d/1dFzegE59pYWhpGZHwkR7RSK0q6cD_ogz/view?usp=sharing
 
